@@ -4,7 +4,27 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 function Home() {
   return (
-    <div>Home</div>
+    <div className='home'>
+      <div className='about'>
+        <h2>Hi! My Name is Fulya!</h2>
+        <div className='intro'>
+          <p>A junior software developer with a passion  for learning and creating!</p>
+          <EmailIcon></EmailIcon>
+          <GitHubIcon></GitHubIcon>
+          <LinkedInIcon></LinkedInIcon>
+
+        </div>
+      </div>
+      <div className='skills'>
+        <h1>Skills</h1>
+        <ol className='list'>
+          <li className='item'>
+            <h2>Front-End</h2>
+            <span>ReactJS, JavaScript, HTML, CSS, Materialize CSS, Bootstrap</span>
+          </li>
+        </ol>
+      </div>
+    </div>
   )
 }
 
