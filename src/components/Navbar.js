@@ -6,7 +6,7 @@ function Navbar() {
   //yer tutucu
   const location=useLocation();
 
-  useEffect=(()=>{
+  useEffect(()=>{
     setExpandNavbar(false);
 
   },[location])
