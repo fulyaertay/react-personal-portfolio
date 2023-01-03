@@ -25,7 +25,6 @@ function Experience() {
               <BusinessCenterIcon> </BusinessCenterIcon>
               <h3>Computer Programmer Intern(June 2015 - August 2015)</h3>
               <span> 9 Eylül University Rectorship </span>
-    
           </li>
         </ol>
       </div>

@@ -6,7 +6,7 @@
 .navbar {
   width: 100%;
   height: 100px;
-  background: #141414;
+  background: #0f0f0f;
 }
 
 .links {
@@ -160,6 +160,7 @@
   flex-direction: column;
   align-items: center;
   padding-top: 20px;
+  background-color: #0f0f0f;
 }
 
 .skills h1 {
@@ -204,9 +205,14 @@
 }
 
 .expContainer{
+  background-color:#050505;
   width: 100%;
-  height: calc(100vh - 300px);
-  background-color: #030303cb;
+  height: calc(100vh - 100px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 .expTitle{
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
