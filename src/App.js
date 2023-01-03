@@ -1,5 +1,5 @@
 import './App.css';
-import {BrowserRouter as Router,Routes, Route} from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from './pages/Home';
 import Projects from './pages/Projects';
 import Experience from './pages/Experience';
@@ -8,9 +8,9 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-        <Route path="/" element={<Home></Home>}></Route>
-        <Route path="/projects" element={<Projects></Projects>}></Route>
-        <Route path="/experience" element={<Experience></Experience>}></Route>
+        <Route path="/" element={<Home/>}></Route>
+        <Route path="/projects" element={<Projects/>}></Route>
+        <Route path="/experience" element={<Experience/>}></Route>
         </Routes>
       </Router>
      
