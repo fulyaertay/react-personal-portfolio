@@ -119,7 +119,7 @@
   width: 100%;
   align-items: center;
   font-family: "Arial", sans-serif;
-  background-color: #141414cb;
+  background-color: #141414;
 }
 
 .about {
@@ -163,7 +163,7 @@
 }
 
 .skills h1 {
-  color: #3e497a;
+  color:  rgb(195, 151, 253);
 }
 
 .skills .list {
@@ -173,9 +173,11 @@
 
 .list span {
   font-size: 20px;
+  color: rgb(211, 184, 247);
 }
 .skills h2{
   margin-top: 20px;
+  color:white;
 }
 @media only screen and (max-width: 600px) {
   .about h2 {
@@ -197,6 +199,7 @@
 
   .skills h2 {
     font-size: 30px;
+    color:rgb(195, 151, 253);
   }
 }
 
@@ -224,7 +227,7 @@
 }
 .expElements ol li svg{
   font-size: 30px;
-  color: #21325e;
+  color: rgb(195, 151, 253);
 }
 /* projectItem css başlangıç */
 .projectItem{

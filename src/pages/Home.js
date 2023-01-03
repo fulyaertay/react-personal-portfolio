@@ -22,6 +22,14 @@ function Home() {
             <h2>Front-End</h2>
             <span>ReactJS, JavaScript, HTML, CSS, Materialize CSS, Bootstrap</span>
           </li>
+          <li className='item'>
+            <h2>Back-End</h2>
+            <span>Python, Django</span>
+          </li>
+          <li className='item'>
+            <h2>Version Control</h2>
+            <span>Git, Github</span>
+          </li>
         </ol>
       </div>
     </div>
