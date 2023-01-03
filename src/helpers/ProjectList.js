@@ -2,37 +2,37 @@ export const ProjectList = [
   {
     name:
       "Book List",
-    image: "Urla Şarapçlık",
+    image: "https://github.com/fulyaertay/react-book-list/raw/master/book-list.png",
+   
+  },
+  {
+    name:   
+      "Mini Blog App",
+    image: "https://github.com/fulyaertay/mini-blog-app/raw/master/logged-in.png",
    
   },
   {
     name:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/41/03/9f/giris.jpg?w=500&h=-1&s=1",
-    image: "Urla Sanat Sokağı",
+      "Search Filter App",
+    image: "https://github.com/fulyaertay/react-search-filter/raw/master/search-filter.png",
    
   },
   {
     name:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/6b/11/d2/kostem-zeytinyagi-muzesi.jpg?w=500&h=400&s=1",
-    image: "Köstem Zeytinyağı Müzesi",
-   
-  },
-  {
-    name:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8a/ad/7e/urla-iskele.jpg?w=500&h=-1&s=1",
-    image: "Urla Marina",
+      "Image Gallery App",
+    image: "https://github.com/fulyaertay/react-image-gallery/raw/master/image-gallery.png",
     
   },
   {
     name:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/14/3a/fd/photo0jpg.jpg?w=500&h=400&s=1",
-    image: "Urla-iskele Berlin's",
+      " Calculator App",
+    image: "https://github.com/fulyaertay/js-calculator-app/raw/master/calc.png",
     
   },
   {
     name:
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/f4/8c/f3/photo0jpg.jpg?w=500&h=400&s=1",
-    image: "Marika Beach Club",
+      "Weather App",
+    image: "https://github.com/fulyaertay/js-weather-app/raw/master/wheather-app.png",
    
   },
 ];
