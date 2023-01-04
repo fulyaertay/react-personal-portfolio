@@ -1,6 +1,6 @@
 import React from 'react'
-
-function ProjectItem({image,name}) {
+import {Link} from 'react-router-dom'
+function ProjectItem({image,name,projectLink}) {
   return (
     <div className='projectItem'>
         <div className='picture'>
@@ -8,6 +8,7 @@ function ProjectItem({image,name}) {
             </img>
         </div>
         <h5>{name}</h5>
+        <Link to={projectLink}></Link>
     </div>
   )
 }
