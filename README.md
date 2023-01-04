@@ -46,7 +46,7 @@ This is my personal portfolio page. It's a multi-page website that shows my pers
   npm start
 ```
 
-<br />
+
 ## 🚀 About Me
 
 I'm Fulya Ertay.
