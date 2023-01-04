@@ -185,7 +185,7 @@
   flex-direction: column;
   align-items: center;
 }
-.skills h2{
+.skills h3{
   margin-top: 20px;
   color:white;
   display: flex;
@@ -212,9 +212,9 @@
     padding: 0;
   }
 
-  .skills h2 {
+  .skills h3 {
     font-size: 30px;
-    color:rgb(195, 151, 253);
+    color:white;
   }
 }
 

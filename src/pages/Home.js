@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className='home'>
       <div className='about'>
-        <h2>Hi! My Name is Fulya!</h2>
+        <h2>Hi👋 My Name is Fulya!</h2>
         <div className='intro'>
           <p>A junior software developer with a passion  for learning and creating!</p>
           <a href={"https://github.com/fulyaertay"}><GitHubIcon></GitHubIcon></a>
@@ -18,15 +18,15 @@ function Home() {
         <h1>Skills</h1>
         <ol className='list'>
           <li className='item'>
-            <h2>Front-End</h2>
+            <h3>Front-End</h3>
             <span>ReactJS, JavaScript, HTML, CSS, Materialize CSS, Bootstrap</span>
           </li>
           <li className='item'>
-            <h2>Back-End</h2>
+            <h3>Back-End</h3>
             <span>Python, Django</span>
           </li>
           <li className='item'>
-            <h2>Version Control</h2>
+            <h3>Version Control</h3>
             <span>Git, Github</span>
           </li>
         </ol>
