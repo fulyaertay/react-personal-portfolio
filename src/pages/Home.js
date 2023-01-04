@@ -29,6 +29,10 @@ function Home() {
             <h3>Version Control</h3>
             <span>Git, Github</span>
           </li>
+          <li className='item'>
+            <h3>Databases</h3>
+            <span>MongoDB, MSSQL</span>
+          </li>
         </ol>
       </div>
     </div>
