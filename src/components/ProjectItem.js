@@ -8,7 +8,7 @@ function ProjectItem({image,name,projectLink}) {
             </img>
         </div>
         <h5>{name}</h5>
-        <Link to={projectLink}></Link>
+       
     </div>
   )
 }

@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 .navbar {
   width: 100%;
@@ -169,16 +170,29 @@
 
 .skills .list {
   list-style: none;
-  width: 60%;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 .list span {
   font-size: 20px;
-  color: rgb(223, 211, 238);
+  color: rgb(211, 184, 247);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 .skills h2{
   margin-top: 20px;
   color:white;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
 }
 @media only screen and (max-width: 600px) {
   .about h2 {
@@ -255,8 +269,8 @@
 }
 /* projectItem css başlangıç */
 .projectItem{
-  width: 25%;
-  height: auto;
+  width: 80%;
+  height: 200px;
   background-color: #3e497a;
   padding: 20px;
   display: flex;
@@ -275,12 +289,15 @@
   
 }
 .projectTitle{
-  color:#1d2442;
+  color:rgb(195, 151, 253);
+  margin-bottom: 50px;
+  margin-top: 40px;
 }
 .projectItem img{
   width: 100%;
   height: 100px;
-  object-fit:cover;
+
+  object-fit:contain;
 }
 .projectItem h5{
   color: white;
@@ -292,9 +309,10 @@
   width: 100%;
   text-align: center;
   padding: 10px;
+  background-color:#050505;
 }
 .projectList{
-  width: 70%;
+  width: 80%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -318,7 +336,7 @@
   font-size: 35px;
 }
 .project img {
-  max-width: 700px;
+  max-width: 500px;
   border-radius: 10px;
   margin: 15px 0;
   height: auto;
