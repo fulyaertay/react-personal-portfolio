@@ -9,9 +9,8 @@ function Home() {
         <h2>Hi! My Name is Fulya!</h2>
         <div className='intro'>
           <p>A junior software developer with a passion  for learning and creating!</p>
-          <EmailIcon></EmailIcon>
-          <GitHubIcon></GitHubIcon>
-          <LinkedInIcon></LinkedInIcon>
+          <a href={"https://github.com/fulyaertay"}><GitHubIcon></GitHubIcon></a>
+          <a href={"https://www.linkedin.com/in/fulya-ertay-40a593156/"}><LinkedInIcon></LinkedInIcon></a>
 
         </div>
       </div>
