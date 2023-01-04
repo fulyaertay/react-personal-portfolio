@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+![Logo](./portfolio.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfolio
+## Check The Live Website :arrow_right: [Live Website](https://fulyaertay.netlify.app/)
 
-## Available Scripts
+This is my personal portfolio page. It's a multi-page website that shows my personal projects and coding knowledge.I've built this page using ReactJS and Material UI. It's a simple multi-page application that uses server-side rendering, so it loads fast and works on mobile devices as well as desktop computers. You can see the source code of this page here on GitHub.
 
-In the project directory, you can run:
+## 🛠 Use To Built
 
-### `npm start`
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://mui.com/static/logo.png" alt="tailwind" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40" height="36"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💻 Features
 
-### `npm test`
+- List My Projects
+- Fully Responsive
+- Cross Platform
+## 🔋 Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**1. Clone the Repository**
 
-### `npm run build`
+```
+  git clone https://github.com/fulyaertay/react-personal-portfolio
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**2. Move into the working directory**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+  cd personal-portfolio
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**3. Install Dependencies**
 
-### `npm run eject`
+```
+  npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**4. Run the App**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+  npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## 🚀 About Me
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+I'm Fulya Ertay.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+I am a junior front-end developer building full-stack applications & learning new technologies. I am proficient in HTML, CSS, JavaScript and have working knowledge of ReactJS and Material CSS. I am passionate about creating user-friendly websites and web applications that are easy to use. My goal is to be able to build applications that are fast, responsive, and fun to use.
 
-### Code Splitting
+### 🔗 You Can Follow Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulya-ertay-40a593156/)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fulyaertay)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
